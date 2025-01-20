@@ -1,0 +1,154 @@
+[
+    {
+        "topic": "Arrays",
+        "questions": [
+            {
+                "title": "Merge Sorted Array",
+                "url": "https://leetcode.com/problems/merge-sorted-array/"
+            },
+            {
+                "title": "Remove Element",
+                "url": "https://leetcode.com/problems/remove-element/"
+            },
+            {
+                "title": "Remove Duplicates from Sorted Array",
+                "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/"
+            },
+            {
+                "title": "Remove Duplicates from Sorted Array II",
+                "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/"
+            },
+            {
+                "title": "Majority Element",
+                "url": "https://leetcode.com/problems/majority-element/"
+            },
+            {
+                "title": "Rotate Array",
+                "url": "https://leetcode.com/problems/rotate-array/"
+            },
+            {
+                "title": "Best Time to Buy and Sell Stock",
+                "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock/"
+            },
+            {
+                "title": "Best Time to Buy and Sell Stock II",
+                "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/"
+            },
+            {
+                "title": "Jump Game",
+                "url": "https://leetcode.com/problems/jump-game/"
+            },
+            {
+                "title": "Jump Game II",
+                "url": "https://leetcode.com/problems/jump-game-ii/"
+            },
+            {
+                "title": "H-Index",
+                "url": "https://leetcode.com/problems/h-index/"
+            },
+            {
+                "title": "Insert Delete GetRandom O(1)",
+                "url": "https://leetcode.com/problems/insert-delete-getrandom-o1/"
+            },
+            {
+                "title": "Product of Array Except Self",
+                "url": "https://leetcode.com/problems/product-of-array-except-self/"
+            },
+            {
+                "title": "Gas Station",
+                "url": "https://leetcode.com/problems/gas-station/"
+            },
+            {
+                "title": "Candy",
+                "url": "https://leetcode.com/problems/candy/"
+            },
+            {
+                "title": "Trapping Rain Water",
+                "url": "https://leetcode.com/problems/trapping-rain-water/"
+            }
+        ]
+    },
+    {
+        "topic": "Strings",
+        "questions": [
+            {
+                "title": "Roman to Integer",
+                "url": "https://leetcode.com/problems/roman-to-integer/"
+            },
+            {
+                "title": "Integer to Roman",
+                "url": "https://leetcode.com/problems/integer-to-roman/"
+            },
+            {
+                "title": "Length of Last Word",
+                "url": "https://leetcode.com/problems/length-of-last-word/"
+            },
+            {
+                "title": "Longest Common Prefix",
+                "url": "https://leetcode.com/problems/longest-common-prefix/"
+            },
+            {
+                "title": "Reverse Words in a String",
+                "url": "https://leetcode.com/problems/reverse-words-in-a-string/"
+            },
+            {
+                "title": "Zigzag Conversion",
+                "url": "https://leetcode.com/problems/zigzag-conversion/"
+            },
+            {
+                "title": "Find the Index of the First Occurrence in a String",
+                "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/"
+            },
+            {
+                "title": "Text Justification",
+                "url": "https://leetcode.com/problems/text-justification/"
+            }
+        ]
+    },
+    {
+        "topic": "Two Pointers",
+        "questions": [
+            {
+                "title": "Valid Palindrome",
+                "url": "https://leetcode.com/problems/valid-palindrome/"
+            },
+            {
+                "title": "Is Subsequence",
+                "url": "https://leetcode.com/problems/is-subsequence/"
+            },
+            {
+                "title": "Two Sum II - Input Array Is Sorted",
+                "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/"
+            },
+            {
+                "title": "Container With Most Water",
+                "url": "https://leetcode.com/problems/container-with-most-water/"
+            },
+            {
+                "title": "3Sum",
+                "url": "https://leetcode.com/problems/3sum/"
+            }
+        ]
+    },
+    {
+        "topic": "Sliding Window",
+        "questions": [
+            {
+                "title": "Minimum Size Subarray Sum",
+                "url": "https://leetcode.com/problems/minimum-size-subarray-sum/"
+            },
+            {
+                "title": "Longest Substring Without Repeating Characters",
+                "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters/"
+            },
+            {
+                "title": "Substring with Concatenation of All Words",
+                "url": "https://leetcode.com/problems/substring-with-concatenation-of-all-words/"
+            },
+            {
+                "title": "Minimum Window Substring",
+                "url": "https://leetcode.com/problems/minimum-window-substring/"
+            }
+        ]
+    }
+]
